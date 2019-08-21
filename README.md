@@ -1,2 +1,3 @@
 # sbs-dbs-id-profiles
-n this module, the user can upload mutational profile/signatures or select the samples from the TCGA study that carry specific signatures. This module can visualize SBS, DBS, and INDEL mutational formats.
+
+I have given two ways to visualize your mutation profiles in SBS, DBS, and ID profiles. Choose the format you like best. Make sure your files match the specified format; I have provided sample files if you need them.
